@@ -1,0 +1,11 @@
+# Build outputs
+bin/
+obj/
+!latest.zip
+
+# Visual Studio / Rider / VSCode
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo

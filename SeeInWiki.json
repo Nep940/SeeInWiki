@@ -1,0 +1,20 @@
+{
+  "Author": "Nep940",
+  "Name": "See in Wiki",
+  "Punchline": "Right-click any in-game item to view it on FFXIV Console Games Wiki.",
+  "Description": "Adds a 'See in Wiki' entry to the context menu of items in your inventory, armory chest, chat links, and more. Clicking it opens the item's page on consolegameswiki directly in your default browser.",
+  "InternalName": "SeeInWiki",
+  "AssemblyVersion": "1.0.0.0",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "Tags": [
+    "wiki",
+    "item",
+    "context menu",
+    "consolegameswiki",
+    "utility"
+  ]
+}
